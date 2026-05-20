@@ -1,0 +1,1 @@
+@echo DEBUG: Hi! i exist to exist so i can exist :3

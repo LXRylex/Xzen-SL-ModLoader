@@ -1,0 +1,1 @@
+@echo DEBUG: shared_assets enabled 
